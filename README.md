@@ -37,7 +37,8 @@ California-House-Price-Prediction/
 
 ## ⚙️ Installation
 ***Clone the repository:***
-git clone https://github.com/your-username/california-house-price-prediction.git
+git clone https://github.com/your-username/
+house-price-prediction.git
 cd california-house-price-prediction
 
 ## Create and activate a virtual environment (optional but recommended):
